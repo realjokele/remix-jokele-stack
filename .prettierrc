@@ -1,0 +1,8 @@
+{
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindFunctions": ["clsx", "tv"],
+  "semi": false,
+  "singleQuote": true,
+  "tailwindConfig": "./tailwind.config.ts",
+  "printWidth": 100
+}
